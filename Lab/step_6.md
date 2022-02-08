@@ -1,4 +1,4 @@
-## Step 6: Configure JFrog CLI
+## Configure JFrog CLI
 
 * Configure [JFrog CLI](https://www.jfrog.com/confluence/display/CLI/), a smart client that provides a simple interface that automates access to JFrog products simplifying our automation scripts.
 
