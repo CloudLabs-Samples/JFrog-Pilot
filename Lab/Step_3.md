@@ -1,4 +1,4 @@
-## Step 3: Add remote npm repository
+## Add remote npm repository
 
 Used as a caching proxy, to store 3rd party from https://registry.npmjs.org
 
