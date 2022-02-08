@@ -18,6 +18,5 @@ Here’s what you’ll need:
 
 ![](image/screenshot2.webp)
 
-2. After login an prompt will be pop up to update password
-3. Update the Password as `Password1234!!`
-  > Note : It's mandatory to Update the Password.
+2. After logging in , update the password as `Password1234!!` in the popup window
+  > Note : It is mandatory to Update the Password.
