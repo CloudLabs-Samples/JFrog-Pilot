@@ -11,7 +11,7 @@ With the  JFrog Artifactory, you can set up a [free local, remote and virtual np
 
 Here’s what is provided as part of the lab environment:
 
-1. In the environment provided, an SSH session to the Linux virtual machine and lab guide will get loaded in your browser tab. 
+1. In the environment provided, an SSH session to the Linux virtual machine and lab guide will get loaded in your browser tab. If the SSH session is still not up yet, wait for a couple of minutes before reaching out to the instructor. 
    
    ![](../images/vmandguidelinux.png)
 
