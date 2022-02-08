@@ -16,7 +16,7 @@ You will be creating a repository which will be used to store your custom npm yo
     npm-challenge-local
     ```
 
-1. And keep the rest of the default settings.
+1. And keep the rest of the default settings and create the repo.
 
    ![](image/screenshot3.png)
    
