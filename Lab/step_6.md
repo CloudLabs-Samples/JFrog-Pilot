@@ -20,6 +20,7 @@ In this task, you will continue to be within the VM that is provided to you and 
    * JFrog Username: <inject key="JFrog Portal Username"></inject>
 
    * JFrog Password: 
+
      ```
      Password1234!!
      ```
