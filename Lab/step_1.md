@@ -56,10 +56,10 @@ Here’s what is provided as part of the lab environment:
    
    ![](image/resetpswd.png)
    
-  > Note : It is mandatory to update the password with the above value itself to ensure the validation is possible.
-
-1. Click on **finish** after all the configurations are completed.
+   > Note : It is mandatory to update the password with the above value itself to ensure the validation is possible.
+ 
+ 1. Click on **finish** once all the configurations are completed.
    
-   ![](image/finish.png)
+    ![](image/finish.png)
 
-Once you have completed the above steps, you can move on to the next page.
+    Once you have completed the above steps, you can move on to the next page.
