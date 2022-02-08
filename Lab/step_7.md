@@ -1,4 +1,4 @@
-## View your repository
+## Task 7: View your repository
 
 Navigate to the Application Module, in the Platform UI, expand the Artifactory menu and click the Artifacts menu item. Here you’ll be able to see the details of your new artifacts.
 
