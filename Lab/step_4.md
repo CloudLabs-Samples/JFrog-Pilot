@@ -1,9 +1,23 @@
 ## Task 4: Add virtual npm repository
 
-Click on the Virtual tab on the Repositories page and add a new Virtual Repository with the npm package type.
+In this task, you will be creating another repository.
 
-Enter the Repository Key “npm” and add the local and remote npm repository you created in Steps 2 and 3 (move them from Available Repositories to Selected Repositories using the arrow buttons). The order of these repositories in the list will determine the order used to resolve the dependencies required for building your npm package.
+1. Click on the Virtual tab on the Repositories page
 
-Select your local repository that you created in Step 2 as the Default Deployment Repository. The Default Deployment Repository is the repository that the npm dependencies you build will be pushed to. Keep the rest of the default settings.
+1. Add a new Virtual Repository with the npm package type.
 
-![](image/screenshot5.webp)
+1. Enter the Repository Key “npm” 
+
+    ```
+    npm
+    ```
+
+1. Add the local and remote npm repository you created in Task 2 and 3 (move them from Available Repositories to Selected Repositories using the arrow buttons). 
+
+   > Note: The order of these repositories in the list will determine the order used to resolve the dependencies required for building your npm package.
+
+1. Select your local repository that you created in Step 2 as the Default Deployment Repository. 
+
+   > Note: The Default Deployment Repository is the repository that the npm dependencies you build will be pushed to. Keep the rest of the default settings.
+
+   ![](image/screenshot5.webp)
