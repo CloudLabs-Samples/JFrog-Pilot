@@ -27,7 +27,7 @@ Here’s what is provided as part of the lab environment:
 
 4. You can **start(1)** or **stop(2)** the Virtual Machine from the **Resources** tab.
 
-   ![](image/resourcestablinux.png)
+   ![](image/resourcestablinuxu.png)
 
 5. There is also a **Validation** tab where you will be able to validate and verify if the task as part of the instructions has been completed successfully.
  
