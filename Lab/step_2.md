@@ -8,6 +8,8 @@ You will be creating a repository which will be used to store your custom npm yo
 
 1. Now, Click on the Repositories menu item.
 
+1. And, click on **Create a Repository**
+
 1. Then, Add a new Local Repository with the npm package type. 
 
 1. Enter the Repository Key “npm-challenge-local” 
