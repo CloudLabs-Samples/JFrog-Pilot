@@ -1,4 +1,4 @@
-# How to set up a Private, Remote and Virtual npm Registry
+# JFrog Artifactory: How to set up a Private, Remote and Virtual npm Registry
 
 ![](image/screenshot1.png)
 
