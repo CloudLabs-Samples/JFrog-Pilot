@@ -6,15 +6,9 @@ The simplest way to manage and organize your Node dependencies is with an [npm r
 
 With the [JFrog free cloud subscription](https://jfrog.com/start-free/), including JFrog Artifactory, Xray and Pipelines, you can set up a [free local, remote and virtual npm registry](https://www.jfrog.com/confluence/display/JFROG/Repository+Management) in minutes. This blog post will take you through the steps.
 
-## Before you start
-Here’s what you’ll need:
+## Login to your JFrog Portal :
 
-   * [npm client installed](https://docs.npmjs.com/getting-started)
-   * [JFrog self-hosted subscription or JFrog cloud subscription](https://jfrog.com/start-free/#hosted)
-   * [JFrog CLI installed](https://jfrog.com/getcli/)
-## Login to your environment
-
-1. Login using the default username: admin, and password: password for the on-prem installation, or the credentials provided to you by email for the cloud installation.
+1. Navigate to the [JFrog Portal](http://artifact535865.eastus.cloudapp.azure.com/ui/login/) Login using the default Username: `admin`, and Password: `password`.
 
 ![](image/screenshot2.webp)
 
