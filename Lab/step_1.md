@@ -6,13 +6,6 @@ The simplest way to manage and organize your Node dependencies is with an [npm r
 
 With the  JFrog Artifactory, you can set up a [free local, remote and virtual npm registry](https://www.jfrog.com/confluence/display/JFROG/Repository+Management) in minutes. This lab  will take you through the step to do that.
 
-## Getting started
-Here’s what you’ll need:
-
-   * [npm client installed](https://docs.npmjs.com/getting-started)
-   * [JFrog self-hosted subscription or JFrog cloud subscription](https://jfrog.com/start-free/#hosted)
-   * [JFrog CLI installed](https://jfrog.com/getcli/)
-
 
 ## Getting started with the Lab environment
 
@@ -21,6 +14,8 @@ Here’s what is provided as part of the lab environment:
 1. In the environment provided, an SSH session to the Linux virtual machine and lab guide will get loaded in your browser tab. 
    
    ![](../images/vmandguidelinux.png)
+
+   > Note: Within the VM, [JFrog CLI](https://jfrog.com/getcli/) and [npm client](https://docs.npmjs.com/getting-started) is pre-installed.
 
 2. To get the lab environment details, you can select the **Environment Details** tab. Additionally, the credentials will also be sent to your email address provided during registration.
 
