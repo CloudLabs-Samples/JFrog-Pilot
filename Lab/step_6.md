@@ -13,13 +13,16 @@ In this task, you will continue to be within the VM that is provided to you and 
 
    * Server ID: Leave blank and hit enter key
 
-   * JFrog platform URL: <inject key="Fqdn" enableCopy="true" />
+   * JFrog platform URL: http://<inject key="Fqdn" enableCopy="true" />
 
    * JFrog access token: Leave blank and hit enter key
 
    * JFrog Username: <inject key="JFrog Portal Username"></inject>
 
-   * JFrog Password: <inject key="JFrog Portal Password"></inject>
+   * JFrog Password: 
+     ```
+     Password1234!!
+     ```
 
    * Finally enter n for "Is the Artifactory reverse proxy..."
 
