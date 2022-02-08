@@ -17,10 +17,10 @@ With the [JFrog free cloud subscription](https://jfrog.com/start-free/), includi
    ![](image/welcome.png)
    
 3. On the **Reset Admin Password** page, In the new password and retype password field enter  `Password1234!!` then click on **Next**.
-   > Note: It is mandatory to update the password.
  
    ![](image/password_reset.png)
    
+   > Note: It is mandatory to update the password.
 4.  On **set base URL** and **Configure Default Proxy** page, select **Skip**,
  
 5. On **Summary** page, select **Finish**
