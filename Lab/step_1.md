@@ -40,7 +40,7 @@ Here’s what is provided as part of the lab environment:
    <inject key="Fqdn" enableCopy="true" />
 
 
-1. In the page that loads up, enter the following username, password and click on **Sign in**. 
+1. In the page that loads up, enter the following username, password and click on **Log in**. 
 
    * Username: <inject key="JFrog Portal Username"></inject>
 
@@ -52,13 +52,14 @@ Here’s what is provided as part of the lab environment:
 
    ![](image/get-started.png)
   
-1. In the REST ADMIN PASSWORD page, update the password as `Password1234!!` in the popup window
+1. In the REST ADMIN PASSWORD page, update the password as `Password1234!!` in the popup window and click on **Next**
    
    ![](image/resetpswd.png)
    
-   ```
-   Password1234!!
-   ```
   > Note : It is mandatory to update the password with the above value itself to ensure the validation is possible.
+
+1. Click on **finish** after all the configurations are completed.
+   
+   ![](image/finish.png)
 
 Once you have completed the above steps, you can move on to the next page.
