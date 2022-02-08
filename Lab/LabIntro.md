@@ -1,5 +1,5 @@
 
-## Getting Started :
+## Getting Started
 
 1. Once the environment is provisioned, a virtual machine and lab guide will get loaded into your browser.
    
@@ -12,4 +12,4 @@
    * [npm client installed](https://docs.npmjs.com/getting-started)
    * [JFrog self-hosted subscription or JFrog cloud subscription](https://jfrog.com/start-free/#hosted)
    * [JFrog CLI installed](https://jfrog.com/getcli/)
-   
+  
