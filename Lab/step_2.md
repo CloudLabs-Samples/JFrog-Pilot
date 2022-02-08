@@ -18,4 +18,6 @@ You will be creating a repository which will be used to store your custom npm yo
 
 1. And keep the rest of the default settings.
 
-![](image/screenshot3.png)
+   ![](image/screenshot3.png)
+   
+Once you have completed the above steps, you can move on to the next page.
