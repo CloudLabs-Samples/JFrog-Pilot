@@ -13,13 +13,13 @@ Here’s what is provided as part of the lab environment:
 
 1. In the environment provided, an SSH session to the Linux virtual machine and lab guide will get loaded in your browser tab. If the SSH session is still not up yet, wait for a couple of minutes before reaching out to the instructor. 
    
-   ![](image/vmandguidelinux.png)
+   ![](image/vmandguidelinuxu.png)
 
    > Note: Within the VM, [JFrog CLI](https://jfrog.com/getcli/) and [npm client](https://docs.npmjs.com/getting-started) is pre-installed.
 
 2. To get the lab environment details, you can select the **Environment Details** tab. Additionally, the credentials will also be sent to your email address provided during registration.
 
-   ![](image/envdetailslinux.png)
+   ![](image/envdetailslinuxu.png)
    
 3. You can also open the Lab Guide on a separate full window by selecting the **Split Window** button on the bottom right corner.
 
