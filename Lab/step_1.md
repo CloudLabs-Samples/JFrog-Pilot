@@ -13,9 +13,16 @@ With the [JFrog free cloud subscription](https://jfrog.com/start-free/), includi
 ![](image/screenshot2.webp)
 
 2. On the **Welcome to the jfrog platform** page, click on **Get Started**.
-3. On the **Reset Admin Password** page, In the new password and retype password box enter  `Password1234!!` then click on **Next**.
+   
+   ![](image/welcome.png)
+   
+3. On the **Reset Admin Password** page, In the new password and retype password field enter  `Password1234!!` then click on **Next**.
    > Note: It is mandatory to update the password.
  
-4.  select **Skip**, on **set base URL** page.
-5. On **Configure Default Proxy** page, select **Skip**. 
-6. On **Summary**, select **Finish**
+   ![](image/password_reset.png)
+   
+4.  On **set base URL** and **Configure Default Proxy** page, select **Skip**,
+ 
+5. On **Summary** page, select **Finish**
+    
+   ![](image/finish.png)
