@@ -1,4 +1,4 @@
-## Step 4: Add virtual npm repository
+## Add virtual npm repository
 
 Click on the Virtual tab on the Repositories page and add a new Virtual Repository with the npm package type.
 
