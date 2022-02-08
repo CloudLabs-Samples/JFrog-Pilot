@@ -1,7 +1,21 @@
 ## Task 2: Add local npm repository
 
-Used to store your custom npm you will create in a later step. Navigate to the Administration Module. Expand the Repositories menu and click on the Repositories menu item.
+You will be creating a repository which will be used to store your custom npm you will create in a later step. 
 
-Add a new Local Repository with the npm package type. Enter the Repository Key “npm-challenge-local” and keep the rest of the default settings.
+1. Navigate to the Administration Module. 
+
+1. Expand the Repositories menu and,
+
+1. Click on the Repositories menu item.
+
+1. Add a new Local Repository with the npm package type. 
+
+1. Enter the Repository Key “npm-challenge-local” 
+
+    ```
+    npm-challenge-local
+    ```
+
+1. And keep the rest of the default settings.
 
 ![](image/screenshot3.png)
