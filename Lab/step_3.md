@@ -14,3 +14,6 @@ You will be creating a repository in this task and it will be used as a caching 
 1.  And keep the rest of the default settings.
 
     ![](image/screenshot4.png)
+    
+Once you have completed the above steps, you can move on to the next page.    
+
