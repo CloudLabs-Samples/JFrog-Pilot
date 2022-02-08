@@ -50,8 +50,12 @@ Here’s what is provided as part of the lab environment:
 
 1. Now, you will be redirected to the JFrog Portal. On the Welcome Popup Window that opens up, click on **Get Started** button.
 
+   ![](image/get-started.png)
+  
 1. In the REST ADMIN PASSWORD page, update the password as `Password1234!!` in the popup window
-
+   
+   ![](image/resetpswd.png)
+   
    ```
    Password1234!!
    ```
