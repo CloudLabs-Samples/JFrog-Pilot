@@ -1,7 +1,16 @@
 ## Task 3: Add remote npm repository
 
-Used as a caching proxy, to store 3rd party from https://registry.npmjs.org
+You will be creating a repository in this task and it will be used as a caching proxy, to store 3rd party from https://registry.npmjs.org
 
-Click on the Remote tab on the Repositories page and add a new Remote Repository with the Npm package type. Enter the Repository Key “npm-challenge-remote” and keep the rest of the default settings.
+1. Click on the Remote tab on the Repositories page
 
-![](image/screenshot4.png)
+1. Add a new Remote Repository with the Npm package type. 
+
+1. Enter the Repository Key “npm-challenge-remote”
+
+    ```
+    npm-challenge-remote
+    ```
+1.  And keep the rest of the default settings.
+
+    ![](image/screenshot4.png)
