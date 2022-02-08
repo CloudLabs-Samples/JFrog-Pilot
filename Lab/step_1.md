@@ -12,7 +12,7 @@ Here’s what you’ll need:
    * [npm client installed](https://docs.npmjs.com/getting-started)
    * [JFrog self-hosted subscription or JFrog cloud subscription](https://jfrog.com/start-free/#hosted)
    * [JFrog CLI installed](https://jfrog.com/getcli/)
-## Step 1: Login to your environment
+## Login to your environment
 
 1. Login using the default username: admin, and password: password for the on-prem installation, or the credentials provided to you by email for the cloud installation.
 
