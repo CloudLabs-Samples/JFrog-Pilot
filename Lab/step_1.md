@@ -1,0 +1,23 @@
+# How to set up a Private, Remote and Virtual npm Registry
+
+![](image/screenshot1.png)
+
+The simplest way to manage and organize your Node dependencies is with an [npm repository](https://www.jfrog.com/confluence/display/JFROG/npm+Registry). You need reliable, secure, consistent and efficient access to your dependencies that are shared across your team, in a central location. Including a place to set up multiple registries, that work transparently with the npm client.
+
+With the [JFrog free cloud subscription](https://jfrog.com/start-free/), including JFrog Artifactory, Xray and Pipelines, you can set up a [free local, remote and virtual npm registry](https://www.jfrog.com/confluence/display/JFROG/Repository+Management) in minutes. This blog post will take you through the steps.
+
+## Before you start
+Here’s what you’ll need:
+
+   * [npm client installed](https://docs.npmjs.com/getting-started)
+   * [JFrog self-hosted subscription or JFrog cloud subscription](https://jfrog.com/start-free/#hosted)
+   * [JFrog CLI installed](https://jfrog.com/getcli/)
+## Step 1: Login to your environment
+
+1. Login using the default username: admin, and password: password for the on-prem installation, or the credentials provided to you by email for the cloud installation.
+
+![](image/screenshot2.webp)
+
+2. After login an prompt will be pop up to update password
+3. Update the Password as `Password1234!!`
+  > Note : It's mandatory to Update the Password.
