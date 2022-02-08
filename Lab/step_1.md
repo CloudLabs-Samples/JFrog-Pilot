@@ -4,7 +4,7 @@
 
 The simplest way to manage and organize your Node dependencies is with an [npm repository](https://www.jfrog.com/confluence/display/JFROG/npm+Registry). You need reliable, secure, consistent and efficient access to your dependencies that are shared across your team, in a central location. Including a place to set up multiple registries, that work transparently with the npm client.
 
-With the  JFrog Artifactory, you can set up a [free local, remote and virtual npm registry](https://www.jfrog.com/confluence/display/JFROG/Repository+Management) in minutes. This lab  will take you through the steps to do that.
+With the  JFrog Artifactory, you can set up a [free local, remote and virtual npm registry](https://www.jfrog.com/confluence/display/JFROG/Repository+Management) in minutes. This lab  will take you through the step to do that.
 
 
 ## Getting started with the Lab environment
@@ -13,26 +13,26 @@ Here’s what is provided as part of the lab environment:
 
 1. In the environment provided, an SSH session to the Linux virtual machine and lab guide will get loaded in your browser tab. If the SSH session is still not up yet, wait for a couple of minutes before reaching out to the instructor. 
    
-   ![](../images/vmandguidelinux.png)
+   ![](image/vmandguidelinux.png)
 
    > Note: Within the VM, [JFrog CLI](https://jfrog.com/getcli/) and [npm client](https://docs.npmjs.com/getting-started) is pre-installed.
 
 2. To get the lab environment details, you can select the **Environment Details** tab. Additionally, the credentials will also be sent to your email address provided during registration.
 
-   ![](../images/envdetailslinux.png)
+   ![](image/envdetailslinux.png)
    
 3. You can also open the Lab Guide on a separate full window by selecting the **Split Window** button on the bottom right corner.
 
-   ![](../images/splitwindowlinux.png)
+   ![](image/splitwindowlinux.png)
 
 4. You can **start(1)** or **stop(2)** the Virtual Machine from the **Resources** tab.
 
-   ![](../images/resourcestablinux.png)
+   ![](image/resourcestablinux.png)
 
 5. There is also a **Validation** tab where you will be able to validate and verify if the task as part of the instructions has been completed successfully.
+   [](image/validationlinux.png)
    
-   
-## Task 1: Log in to JFrog Portal
+## Task: Log in to JFrog Portal
 
 1. Let us start by logging into the JFrog Portal. Copy the below link and open in a new tab in your browser.
 
