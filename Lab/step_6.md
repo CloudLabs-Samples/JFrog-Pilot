@@ -2,6 +2,16 @@
 
 In this task, you will continue to be within the VM that is provided to you and configure the JFrog CLI to build the project with [npm](https://www.jfrog.com/confluence/display/CLI/CLI+for+JFrog+Artifactory#CLIforJFrogArtifactory-BuildingNpmPackagesUsingtheNpmClient) and resolve the project dependencies from Artifactory.
 
+1. Within the SSH Session to the VM, execute the following commands to install JFrog CLI:
+
+    ```
+    sudo su -
+    wget -qO - https://releases.jfrog.io/artifactory/jfrog-gpg-public/jfrog_public_gpg.key | sudo apt-key add -
+    echo "deb https://releases.jfrog.io/artifactory/jfrog-debs xenial contrib" | sudo tee -a /etc/apt/sources.list
+    sudo apt update -y
+    sudo apt install -y jfrog-cli-v2-jf
+    ```
+
 
 1. Execute the following command to configure the [Artifactory server](https://www.jfrog.com/confluence/display/CLI/CLI+for+JFrog+Artifactory#CLIforJFrogArtifactory-Configuration).
   
