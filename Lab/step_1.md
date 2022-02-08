@@ -30,8 +30,9 @@ Here’s what is provided as part of the lab environment:
    ![](image/resourcestablinux.png)
 
 5. There is also a **Validation** tab where you will be able to validate and verify if the task as part of the instructions has been completed successfully.
-   [](image/validationlinux.png)
-   
+ 
+   ![](image/validationlinux.png)
+  
 ## Task: Log in to JFrog Portal
 
 1. Let us start by logging into the JFrog Portal. Copy the below link and open in a new tab in your browser.
