@@ -21,3 +21,5 @@ In this task, you will be creating another repository.
    > Note: The Default Deployment Repository is the repository that the npm dependencies you build will be pushed to. Keep the rest of the default settings.
 
    ![](image/screenshot5.webp)
+   
+Once you have completed the above steps, you can move on to the next page.
