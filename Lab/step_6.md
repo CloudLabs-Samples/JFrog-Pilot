@@ -8,9 +8,24 @@ In this task, you will continue to be within the VM that is provided to you and 
     ```
     jf c add
     ```
+
+1. In the prompts, provide the following values:
+
+   * Server ID: Leave blank and hit enter key
+
+   * JFrog platform URL: <inject key="Fqdn" enableCopy="true" />
+
+   * JFrog access token: Leave blank and hit enter key
+
+   * JFrog Username: <inject key="JFrog Portal Username"></inject>
+
+   * JFrog Password: <inject key="JFrog Portal Password"></inject>
+
+   * Finally enter n for "Is the Artifactory reverse proxy..."
+
     The output for the above command will be similar to below screenshot.
     
-    ![](media/postgre-l.png)
+    ![](image/task6step-jfcadd.png)
 
 1. Execute the following command to configure the project’s repositories.
     
@@ -19,7 +34,7 @@ In this task, you will continue to be within the VM that is provided to you and 
     ```
     The output for the above command will be similar to below screenshot.
     
-    ![](media/postgre-l.png)
+    ![](image/task6step-jfnpmc.png)
 
 1. Install the npm package
   
@@ -28,7 +43,7 @@ In this task, you will continue to be within the VM that is provided to you and 
     ```
     The output for the above command will be similar to below screenshot.
     
-    ![](media/postgre-l.png)
+    ![](image/task6step-jfnpmi.png)
 
 1. Add environment variables to the build-info.
   
@@ -37,7 +52,7 @@ In this task, you will continue to be within the VM that is provided to you and 
     ```
     The output for the above command will be similar to below screenshot.
     
-    ![](media/postgre-l.png)
+    ![](image/task6step-jfrtbc.png)
   
 1. Pack and publish the npm package to Artifactory, while recording it as artifact in the build-info.
   
@@ -46,7 +61,7 @@ In this task, you will continue to be within the VM that is provided to you and 
     ```
     The output for the above command will be similar to below screenshot.
     
-    ![](media/postgre-l.png)
+    ![](image/task6step-jfrtbag.png)
 
 1. Publish the build info to Artifactory.
   
@@ -56,6 +71,8 @@ In this task, you will continue to be within the VM that is provided to you and 
     ```
     The output for the above command will be similar to below screenshot.
     
-    ![](media/postgre-l.png)
+    ![](image/task6step-jfnpmp.png)
+    
+    ![](image/task6step-jfrtbp.png)
    
    ![](image/screenshot8.webp)
