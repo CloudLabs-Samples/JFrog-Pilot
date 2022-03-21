@@ -11,7 +11,7 @@ In this task, you will be setting up this [repository](https://github.com/jfrog/
     ```
     The output for the above command will be similar to below screenshot.
     
-    ![](media/postgre-l.png)
+    ![](image/jfrogimg1.png)
     
 1. Execute the following command to change to the directory of the cloned repository in the VM.
 
@@ -20,4 +20,4 @@ In this task, you will be setting up this [repository](https://github.com/jfrog/
     ```
     The output for the above command will be similar to below screenshot.
     
-    ![](media/postgre-l.png)
+    ![](image/jfrogimg2.png)
