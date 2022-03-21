@@ -12,7 +12,6 @@ In this task, you will continue to be within the VM that is provided to you and 
     sudo apt install -y jfrog-cli-v2-jf
     ```
 
-
 1. Execute the following command to configure the [Artifactory server](https://www.jfrog.com/confluence/display/CLI/CLI+for+JFrog+Artifactory#CLIforJFrogArtifactory-Configuration).
   
     ```
