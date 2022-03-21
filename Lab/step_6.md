@@ -12,7 +12,6 @@ In this task, you will continue to be within the VM that is provided to you and 
     sudo apt install -y jfrog-cli-v2-jf
     ```
 
-
 1. Execute the following command to configure the [Artifactory server](https://www.jfrog.com/confluence/display/CLI/CLI+for+JFrog+Artifactory#CLIforJFrogArtifactory-Configuration).
   
     ```
@@ -23,7 +22,7 @@ In this task, you will continue to be within the VM that is provided to you and 
 
    * Server ID: Leave blank and hit enter key
 
-   * JFrog platform URL: http://<inject key="Fqdn" enableCopy="true" />
+   * JFrog platform URL: <inject key="Fqdn" enableCopy="true" />
 
    * JFrog access token: Leave blank and hit enter key
 
@@ -49,7 +48,12 @@ In this task, you will continue to be within the VM that is provided to you and 
     The output for the above command will be similar to below screenshot.
     
     ![](image/task6step-jfnpmc.png)
+    
+1. Execute the following command to generate an empty npm project without going through an interactive process.
 
+    ```
+    npm init -y
+    ```
 1. Install the npm package
   
     ```

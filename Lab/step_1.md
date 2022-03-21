@@ -57,8 +57,16 @@ Here’s what is provided as part of the lab environment:
    ![](image/resetpswd.png)
    
    > Note : It is mandatory to update the password with the above value itself to ensure the validation is possible.
- 
- 1. Click on **finish** once all the configurations are completed.
+
+1. On the **set base URL** page, provide the artifactory URL in the **select Base URL** and click on **Next**.
+
+   ![](image/jfrogimg3.png)
+   
+1. On the **Configure Platform default Proxy** leave the settings as default and click on **Next**.
+
+   ![](image/jfrogimg4.png)
+   
+1. Click on **finish** once all the configurations are completed.
    
     ![](image/finish.png)
 
