@@ -62,7 +62,7 @@ Here’s what is provided as part of the lab environment:
 
    ![](image/jfrogimg3.png)
    
-1. on the **Configure Platform default Proxy** leave the settings as default and click on **Next**.
+1. On the **Configure Platform default Proxy** leave the settings as default and click on **Next**.
 
    ![](image/jfrogimg4.png)
    
