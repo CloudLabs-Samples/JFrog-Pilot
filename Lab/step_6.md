@@ -49,7 +49,12 @@ In this task, you will continue to be within the VM that is provided to you and 
     The output for the above command will be similar to below screenshot.
     
     ![](image/task6step-jfnpmc.png)
+    
+1. Execute the following command to generate an empty npm project without going through an interactive process.
 
+    ```
+    npm init -y
+    ```
 1. Install the npm package
   
     ```
