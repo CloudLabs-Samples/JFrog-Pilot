@@ -22,7 +22,7 @@ In this task, you will continue to be within the VM that is provided to you and 
 
    * Server ID: Leave blank and hit enter key
 
-   * JFrog platform URL: http://<inject key="Fqdn" enableCopy="true" />
+   * JFrog platform URL: <inject key="Fqdn" enableCopy="true" />
 
    * JFrog access token: Leave blank and hit enter key
 
