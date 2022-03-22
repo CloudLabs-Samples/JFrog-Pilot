@@ -5,7 +5,6 @@ In this task, you will continue to be within the VM that is provided to you and 
 1. Within the SSH Session to the VM, execute the following commands to install JFrog CLI:
 
     ```
-    sudo su -
     wget -qO - https://releases.jfrog.io/artifactory/jfrog-gpg-public/jfrog_public_gpg.key | sudo apt-key add -
     echo "deb https://releases.jfrog.io/artifactory/jfrog-debs xenial contrib" | sudo tee -a /etc/apt/sources.list
     sudo apt update -y
