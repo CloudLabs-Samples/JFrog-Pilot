@@ -7,6 +7,7 @@ In this task, you will be setting up this [repository](https://github.com/jfrog/
 1. Execute the following command to clone the repository to the machine
 
     ```
+    sudo su -
     git clone https://github.com/jfrog/DevRel/
     ```
     The output for the above command will be similar to below screenshot.

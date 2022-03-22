@@ -60,6 +60,8 @@ Here’s what is provided as part of the lab environment:
 
 1. On the **set base URL** page, provide the artifactory URL in the **select Base URL** and click on **Next**.
 
+   <inject key="Fqdn" enableCopy="true" />
+
    ![](image/jfrogimg3.png)
    
 1. On the **Configure Platform default Proxy** leave the settings as default and click on **Next**.
