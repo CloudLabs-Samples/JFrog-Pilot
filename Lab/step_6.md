@@ -44,6 +44,20 @@ In this task, you will continue to be within the VM that is provided to you and 
     ```
     jf npmc
     ```
+1. In the prompts, provide the following values:
+
+   * Resolve dependencies from Artifactory? (y/n) (y): Leave blank and hit enter key
+
+   * Set Artifactory server ID [Default-Server]: Leave blank and hit enter key
+
+   * Set repository for dependencies resolution  (press Tab for options): npm
+
+   * Deploy project artifacts to Artifactory? (y/n) (y)?: Leave blank and hit enter key
+
+   * Set Artifactory server ID [Default-Server]: Leave blank and hit enter key
+
+   * Set repository for artifacts deployment (press Tab for options): npm-challenge-local
+    
     The output for the above command will be similar to below screenshot.
     
     ![](image/task6step-jfnpmc.png)
